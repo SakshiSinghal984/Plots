@@ -1,0 +1,7 @@
+streamlit==1.10.0
+pandas==1.1.5
+numpy==1.19.5
+altair==4.1.0
+plotly==5.18.0
+mayplotlib==3.3.4
+seaborn==0.11.2
